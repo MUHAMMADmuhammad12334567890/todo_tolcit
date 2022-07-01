@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  width: 100%;
+  margin-top: 5%;
+
+}
+
+.patch_button {
+border-radius: 20px;
+border: none;
+cursor: pointer;
+background-color: white;
+}
+
+.b1 {
+
+}
+.b2{
+  text-decoration: line-through;
+
+  
+
+}
+
+.input {
+  border-radius: 5px;
+}
+
+.input_button {
+  border-radius: 5px;
+
+}
